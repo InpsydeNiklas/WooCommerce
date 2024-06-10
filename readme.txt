@@ -12,26 +12,23 @@ Accept all major payment methods in WooCommerce today. Credit cards, iDEAL and m
 
 == Description ==
 
-https://www.youtube.com/watch?v=yslqbm2FPFg
+https://www.youtube.com/watch?v=33sQNKelKW4
 
-Quickly integrate all major payment methods in WooCommerce, wherever you need them. Simply drop them ready-made into your WooCommerce webshop with this powerful plugin by Mollie. Mollie is dedicated to making payments better for WooCommerce.
+Quickly integrate all major payment methods in WooCommerce, wherever you need them. Mollie Payments for WooCommerce adds the critical success factor: an easy-to-install, easy-to-use, customizable payments gateway that is as flexible as WooCommerce itself.
 
-> Next level payments, for WooCommerce
+> **Effortless payments for your customers, designed for growth**
 
-No need to spend weeks on paperwork or security compliance procedures. No more lost conversions because you don’t support a shopper’s favorite payment method or because they don’t feel safe. We made payments intuitive and safe for merchants and their customers.
+No need to spend weeks on paperwork or security compliance procedures. Enjoy enhanced conversions as we support shopperâ€™s favorite payment methods and ensure their utmost safety. We made payments intuitive and safe for merchants and their customers.
 
-= PAYMENT METHODS =
+= Payment methods =
 
-Credit cards:
+Credit & Debit Cards:
 
 * VISA (International)
 * MasterCard (International)
 * American Express (International)
 * Cartes Bancaires (France)
 * CartaSi (Italy)
-
-Debit cards:
-
 * V Pay (International)
 * Maestro (International)
 
@@ -39,46 +36,84 @@ European and local payment methods:
 
 * iDEAL (Netherlands)
 * Bancontact (Belgium)
-* ING Home'Pay (Belgium)
+* Bancomat Pay (Italy)
+* Blik (Poland)
+* Przelewy24 (Poland)
 * Giropay (Germany)
 * EPS (Austria)
-* Przelewy24 (Poland)
-* SOFORT banking (EU)
+* SOFORT Banking (EU)
 * Belfius (Belgium)
 * KBC/CBC payment button (Belgium)
 * SEPA - Credit Transfer (EU)
 * SEPA - Direct Debit (EU)
 * Gift cards (Netherlands)
-* Eco-, gift- and meal vouchers (Belgium)
+* Klarna Pay now (Netherlands, Belgium, Germany, Austria, Finland)
+* Klarna One (UK)
+* Vouchers (Netherlands, Belgium)
+* TWINT (Switzerland)
 
 International payment methods:
 
+* Apple Pay (International)
 * PayPal (International)
 * Paysafecard (International)
 
 Pay after delivery payment methods:
 
-* Klarna Pay later (Netherlands, Germany, Austria, Finland)
+* Klarna Pay later (Netherlands, Belgium, Germany, Austria, Finland)
 * Klarna Slice it (Germany, Austria, Finland)
+* Billie â€“ Pay by Invoice for Businesses
+* iDEAL in3 â€“ Pay in 3 installments, 0% interest
 
-Please go to the [signup page](https://www.mollie.com/signup) to create a new Mollie account and start receiving payments in a couple of minutes. Contact info@mollie.com if you have any questions or comments about this plugin.
 
-> Our pricing is always per transaction. No startup fees, no monthly fees, and no gateway fees. No hidden fees, period.
+= Get started with Mollie =
 
-= FEATURES =
+1. [Create a Mollie account](https://my.mollie.com/dashboard/signup)
+2. Install **Mollie Payments for WooCommerce** on your WordPress website
+3. Activate Mollie in your WooCommerce webshop and enter your Mollie API key
+4. In your Mollie Dashboard, go to Settings > Website profiles and select the payment methods you want to offer
+5. Go to your WordPress Admin Panel. Open WooCommerce > Settings > Payments to check if your preferred methods are enabled
+
+Once your Mollie account has been approved, you can start accepting payments. 
+
+> **Our pricing is always per transaction. No startup fees, no monthly fees, and no gateway fees. No hidden fees, period.**
+
+= Features =
 
 * Support for all available Mollie payment methods
 * Compatible with WooCommerce Subscriptions for recurring payments (Apple Pay, credit card, iDEAL, and more via SEPA Direct Debit)
 * Transparent pricing. No startup fees, no monthly fees, and no gateway fees. No hidden fees, period.
 * Edit the order, title and description of every payment method in WooCommerce checkout
-* Support for full and partial payment refunds (WooCommerce 2.2+)
+* Support for full and partial payment refunds
 * Configurable pay outs: daily, weekly, monthly - whatever you prefer
-* [Powerful dashboard](https://www.mollie.com/en/features/dashboard) on mollie.com to easily keep track of your payments.
-* Fast in-house support. You will always be helped by someone who knows our products intimately.
-* Multiple translations: English, Dutch, German and French
+* [Powerful dashboard](https://www.mollie.com/en/features/dashboard) on mollie.com to easily keep track of your payments
+* Fast in-house support. You will always be helped by someone who knows our products intimately
+* Multiple translations: English, Dutch, German, French, Italian, Spanish
 * Event log for debugging purposes
 * WordPress Multisite support
-* WPML support
+* Works well with multilingual plugins like WPML/Polylang
+
+Contact info@mollie.com if you have any questions or comments about this plugin.
+
+= Join the Mollie Community =
+
+Become part of Mollieâ€™s growing community and gain access to our comprehensive support network, including a [Discord Developer Community](https://discord.gg/y2rbjqszbs) to stay connected and informed.
+
+> **Your success is our mission. With Mollie, simplify your payments and focus on growing your business.**
+
+[Sign up today](https://my.mollie.com/dashboard/signup) and start enhancing your WooCommerce store with Mollieâ€™s advanced payment solutions.
+
+= More about Mollie =
+
+Since 2004, Mollie has been on a mission to help businesses drive growth through simplified payments and financial services.
+
+Initially observing banks offering businesses outdated technology and complex processes, Mollie decided to innovate. Striving to improve conditions by acting fairly and being a true partner to customers on their journey to success has always been a priority.
+
+Over the years, Mollie has expanded significantly, yet the core mission remains unchanged: to address and solve customer problems to facilitate their growth.
+
+Mollie champions the belief that simplicity leads to the best solutions and designs products to serve everyone â€“ from solopreneurs and startups to global enterprises. This approach ensures every customer has access to the necessary tools for success.
+
+Today, Mollie powers growth for over 130,000 businesses with effortless online payments, money management tools, and flexible funding, continuously enhancing payment and financial services for a broad spectrum of clients including global brands, SMEs, marketplaces, SaaS platforms, and more.
 
 == Frequently Asked Questions ==
 
